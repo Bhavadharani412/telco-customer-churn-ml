@@ -1,5 +1,3 @@
-# telco-customer-churn-ml
-Machine Learning project for customer churn prediction using multiple classification models
 # Customer Churn Prediction using Machine Learning
 
 ## 📌 Project Overview
